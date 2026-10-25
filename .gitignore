@@ -1,0 +1,10 @@
+*.lnk
+*.pdb
+*.tmp
+.vs/
+bin/
+obj/
+status.json
+position.json
+verification*.json
+checksums.local.txt
